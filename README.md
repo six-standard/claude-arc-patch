@@ -1,6 +1,6 @@
 ## Claude in Chrome - Arc Sidebar Fix
 
-This is an extension you can load in arc where it makes a popup for claude in chrome.
+This is an extension you can load in arc where it makes a new window for claude in chrome.
 
 Download: Click code at top of page -> download zip. Extract the zip.
 
