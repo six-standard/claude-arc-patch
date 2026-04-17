@@ -1,5 +1,7 @@
 ## Claude in Chrome - Arc Sidebar Fix
 
+![asdf](https://github.com/six-standard/claude-arc-patch/blob/main/image.png?raw=true)
+
 This is an extension you can load in arc where it makes a new window for claude in chrome.
 
 Download: Click code at top of page -> download zip. Extract the zip.
